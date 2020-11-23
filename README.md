@@ -1,5 +1,4 @@
-# My Projects
-This repository is for all projects I have been working on. I do appreciate those who have the time to evaluate these projects and provide any constructive feedback.
+# Capstone Projects
+This repository is for the projects I conducted during my Certificate and bootcamps.  Some of which have have their individual repositories where I conduct further detailed analysis. 
 
-Thank you
 Bernardo Vimpi
